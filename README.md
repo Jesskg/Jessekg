@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessekg&label=Profile%20views&color=0e75b6&style=flat" alt="jessekg" /> </p>
 
-- 🌱 I’m currently learning **Python, HTML/CSS, JavaScript**
+- 🌱 I’m currently learning **TypeScript,React as well as VueJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jesskg?tab=repositories](https://github.com/Jesskg?tab=repositories)
 
